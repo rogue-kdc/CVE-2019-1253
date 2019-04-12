@@ -1,0 +1,7 @@
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\bin\Debug\PrivilegedFileDelete.exe.config
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\bin\Debug\PrivilegedFileDelete.exe
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\bin\Debug\PrivilegedFileDelete.pdb
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\obj\Debug\PrivilegedFileDelete.csprojAssemblyReference.cache
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\obj\Debug\PrivilegedFileDelete.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\obj\Debug\PrivilegedFileDelete.exe
+C:\Users\Nabeel\Documents\R&D\Windows\Windows Apps LPE\File Delete\exploit\PrivilegedFileDelete\PrivilegedFileDelete\obj\Debug\PrivilegedFileDelete.pdb
